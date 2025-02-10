@@ -1,0 +1,14 @@
+{
+"normal": {
+"totalTickets": 100,
+"ticketReleaseRate": 10,
+"customerRetrievalRate": 5,
+"maxTicketCapacity": 50
+},
+"vip": {
+"totalTickets": 10,
+"ticketReleaseRate": 5,
+"customerRetrievalRate": 2,
+"maxTicketCapacity": 30
+}
+}
